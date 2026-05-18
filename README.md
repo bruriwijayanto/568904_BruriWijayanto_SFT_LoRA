@@ -1,9 +1,6 @@
 # Supervised Fine-Tuning (SFT) dengan LoRA
 ## Studi Kasus: Bahasa Daerah & Budaya Nusantara Indonesia
 
-**Mata Kuliah:** Pemrosesan Bahasa Alami  
-**Nama:** Bruri Wijayanto  
-**NIM:** 25/568904/PPA/07156  
 **Platform:** Google Colab (GPU Tesla T4)
 
 ---
